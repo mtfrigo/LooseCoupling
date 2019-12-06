@@ -26,8 +26,12 @@
 
 - Modify your chat application to allow one-to-one communicaitons between users
 
-## Dependencies
+### Implementation details
 
-[OpenJDK 8](Guides/jdk.md)
+Operating system: Ubuntu 18.04
+
+Editor: Visual Studio Code (used also for debugging)
+
+## Dependencies
 
 [ActiveMQ](Guides/activemq.md)
