@@ -16,7 +16,7 @@ Edit [activemq path]/conf/activemq.xml
 Edit the 61616 to what port you want
 # Starting
 
-'''
+```
 cd activemq-5.15.8-bin.tar.gz
 sudo bin/activemq console
-'''
+```

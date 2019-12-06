@@ -32,6 +32,7 @@ Operating system: Ubuntu 18.04
 
 Editor: Visual Studio Code (used also for debugging)
 
+
 ## Dependencies
 
 [ActiveMQ](Guides/activemq.md)
